@@ -1,0 +1,26 @@
+Terminal App(bash)
+	version: version 5.0.17
+	location: /usr/bin/bash
+	info/documentation: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+
+Git version control
+	version:git version 2.25.1
+	location: /usr/bin/git
+	info/documentation: https://git-scm.com/docs
+
+NodeJS
+	version: v10.19.0
+	location: /usr/bin/nodejs
+	info/documentation: https://nodejs.org/docs/latest-v10.x/api/
+NPM
+	version: v8.18.0
+	info/documentation: https://docs.npmjs.com/
+
+Repository configurations (.gitignore)
+	location: ~/Documents/Github/CISC3140/
+	info/documentation: https://git-scm.com/docs/gitignore
+
+Text editor(VIM)
+	version: VIM - Vi IMproved 8.1
+	location: /usr/bin/vim
+	info/documentation: https://vimhelp.org/
