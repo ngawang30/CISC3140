@@ -1,0 +1,39 @@
+Script started on 2022-09-28 09:51:23-04:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="203" LINES="53"]
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ mkdir lab[K[K[K[Kt[K task3
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ ls
+LabOne.class  LabOne.java  script  task1.txt  [0m[01;34mtask3[0m
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ cd tas3[Kk3/
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140/task3[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140/task3[00m$ ls
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140/task3[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140/task3[00m$ cd ..
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ ls
+LabOne.class  LabOne.java  script  task1.txt  [0m[01;34mtask3[0m
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ mv script task3/
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ ls
+LabOne.class  LabOne.java  task1.txt  [0m[01;34mtask3[0m
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ cd task3/
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140/task3[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140/task3[00m$ ls
+script
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140/task3[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140/task3[00m$ cd ..
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ java[K[K[K[Kls
+LabOne.class  LabOne.java  task1.txt  [0m[01;34mtask3[0m
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ java [Kc LabOne.java
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ java LabOne
+Time until Lab 1 is due: 0
+Time until Lab 2 is due: 29
+Time until Lab 3 is due: 56
+Time until Lab 4 is due: 71
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ exit
+exit
+
+Script done on 2022-09-28 09:52:45-04:00 [COMMAND_EXIT_CODE="0"]
+[00m$ cd task3/
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140/task3[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140/task3[00m$ ls
+script
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140/task3[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140/task3[00m$ cd ..
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ java[K[K[K[Kls
+LabOne.class  LabOne.java  task1.txt  [0m[01;34mtask3[0m
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ java [Kc LabOne.java
+]0;ngawang@ngawang-B450M-DS3H-WIFI: ~/Documents/GitHub/CISC3140[01;32mngawang@ngawang-B450M-DS3H-WIFI[00m:[01;34m~/Documents/GitHub/CISC3140[00m$ java LabOne
+Time until Lab 1 is due: 0
+Time until Lab 2 is due: 29
+Time until Lab 
